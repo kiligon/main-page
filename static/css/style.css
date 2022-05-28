@@ -46,6 +46,14 @@ background: #212121;
     top: 346px;
 }
 
+.logo{
+    position: absolute;
+    width: 243px;
+    height: 68px;
+    left: 856px;
+    top: 24px;
+}
+
 .border{
     position: absolute;
     width: 1920px;
