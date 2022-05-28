@@ -46,12 +46,73 @@ background: #212121;
     top: 346px;
 }
 
+.country{
+    position: absolute;
+    width: 105px;
+    height: 38px;
+    left: 433px;
+    top: 53px;
+
+    font-family: 'Caveat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 38px;
+
+    /* identical to box height */
+    letter-spacing: 0.03em;
+
+    /* Black */
+    color: #212121;
+}
+
+.news{
+    position: absolute;
+    width: 109px;
+    height: 38px;
+    left: 573px;
+    top: 53px;
+    font-family: 'Caveat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 38px;
+
+    /* identical to box height */
+    letter-spacing: 0.03em;
+
+    /* Black */
+    color: #212121;    
+}
+
+.add{
+    position: absolute;
+    width: 89px;
+    height: 38px;
+    left: 717px;
+    top: 53px;
+    
+    font-family: 'Caveat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 38px;
+    
+    /* identical to box height */
+    letter-spacing: 0.03em;
+    
+    /* Black */
+    color: #212121;
+}
+
+
 .logo{
     position: absolute;
-    width: 243px;
+    width: 58px;
     height: 68px;
     left: 856px;
     top: 24px;
+
 }
 
 .border{
