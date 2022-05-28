@@ -8,24 +8,52 @@ body{
 	font-family: 'Saira', sans-serif;
 }
 .page{
-height:100vh;
-width:100%;
-background:  #500505;
+    height:100vh;
+    width:100%;
+    background:  #E5E5E5;
 }
 
 .button{
-	width: 200px;
-	position: absolute;
-	bottom: 50px;
-	right: 50px;
+    position: absolute;
+    width: 399px;
+    height: 0px;
+    left: 1790px;
+    top: 333px;
 }
-.main-container{
-width: 1540px;
-height: 960px;
-margin: 60px auto;
-position: relative;
 
+.rectangle{ 
+position: absolute;
+width: 1920px;
+height: 235px;
+left: 0px;
+top: 800px;
+background: #212121;
 }
+
+.main-container{
+    width: 1920px;
+    height: 1035px;
+    margin: 60px auto;
+    position: relative;
+}
+
+
+.porosya{
+    position: absolute;
+    width: 600px;
+    height: 453.71px;
+    left: 0px;
+    top: 346px;
+}
+
+.border{
+    position: absolute;
+    width: 1920px;
+    height: 235px;
+    left: 0px;
+    top: 800px;
+}
+
 
 .norway{
 	width: 523px;
@@ -45,6 +73,7 @@ transition: 0.2s;
 right:450px;
 
 }
+
 .poland{
 width: 380px;
 position: absolute;
@@ -53,6 +82,7 @@ right: 580px;
 top: 280px;
 transition: 0.2s;
 }
+
 .spain{
 	position: absolute;
 	z-index: 1;
@@ -61,6 +91,7 @@ transition: 0.2s;
 	left: 200px;
 	transition: 0.2s;
 }
+
 .thailand{
 width: 330px;
 position: absolute;
@@ -68,7 +99,6 @@ z-index: 1;
 bottom: 0;
 right: 0;
 transition: 0.2s;
-
 }
 
 .latvia{
